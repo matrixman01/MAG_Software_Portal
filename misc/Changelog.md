@@ -3,10 +3,10 @@
 * Add logo of MAG 250 and new background to embedded portal.
 * Internet bookmarks shortcut comes back. Temporary remove help topics for games.
 * Support for new STBs:
-** MAG 245,
-** Aura HD,
-** Aura HD International,
-** Rostelecom IP_STB_HD.
+  * MAG 245,
+  * Aura HD,
+  * Aura HD International,
+  * Rostelecom IP_STB_HD.
 * Apps Catalogue should work at Auras. Unfortunately probably won't be able to fix it at MAGs.
 
 ## 2.18.25-beta-250 14 Sep 2018
