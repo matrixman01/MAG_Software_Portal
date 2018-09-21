@@ -1,10 +1,10 @@
-Changes in official base 0.2.18-r23 for MAG Software Portal v2.18.25 and laters:
+Changes in official base 0.2.18-r23 for MAG Software Portal v2.18.26 and laters:
 
 Player:
 Fixed stop of HLS playback, when HLS server switches stream source.
 Fixed reset of audio track selection after seeking.
 Fixed asynchronous audio on some HLS streams.
-Fixed incorrect displaying of DVB subtitles on recordings.
+Fixed incorrect displaying of DVB subtitles on recording.
 Fixed incorrect displaying of embedded text subtitles.
 Fixed SecureMedia decryption.
 Fixed hanging of player, if incorrect file is selected as external subtitles.
