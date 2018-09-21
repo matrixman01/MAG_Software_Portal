@@ -27,6 +27,17 @@ In practice side there's nothing difference, only one thing - Auras have access 
 ### Can I get source code of your firmware?
 Just ask if you'd like :)
 
+### How to enter bootloader menu (BIOS)?
+* Plug off STB from power supply.
+* Hold MENU button at remote control.
+* Plug in STB while still holding button. Wait until you see the blue screen with some options. Then you can release MENU.
+
+**Navigating at bootloader menu**
+* UP and DOWN to move cursor.
+* RIGHT to enter option selected by cursor.
+* LEFT to go back to previous menu.
+When being at main menu of bootloader, you can use HOME, which executes exiting with discarding changes.
+
 ### Can I use **Software update** option from embedded portal?
 Unfortunately not now, it installs official Infomir software. To do update of MAG Software Portal, do it by USB & Bootstrap. Integration with this option will be done in release channel.
 
