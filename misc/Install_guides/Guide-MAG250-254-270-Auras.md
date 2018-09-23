@@ -1,4 +1,10 @@
 # Full guide of remote installing and updating
+#### This guide is intended to use with these STBs:
+* MAG 245 / 250,
+* Aura HD,
+* Aura HD International,
+* Rostelecom IP_STB_HD.
+
 Here you have index of all ways to install MAG Software Portal on your STB and/or do update.
 
 Of course to do everything you must download two files:
