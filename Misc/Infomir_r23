@@ -1,0 +1,40 @@
+Changes in official base 0.2.18-r23 for MAG Software Portal v2.18.26 and laters:
+
+Player:
+Fixed stop of HLS playback, when HLS server switches stream source.
+Fixed reset of audio track selection after seeking.
+Fixed asynchronous audio on some HLS streams.
+Fixed incorrect displaying of DVB subtitles on recording.
+Fixed incorrect displaying of embedded text subtitles.
+Fixed SecureMedia decryption.
+Fixed hanging of player, if incorrect file is selected as external subtitles.
+Added 24H.TV support.
+Fixed incorrect playback of some HLS streams (Flussonic).
+Fixed kernel crash on some LG TV.
+
+Embedded portal:
+Updated manual.
+Updated localization.
+Fixed empty audio_initial_volume state.
+Fixed current image date check in update.
+Increased portal loading delay in multiportal mode to fix slow wifi start.
+Fixed some inconsistency in new API.
+Fixed navigation in favorite.
+Fixed access control settings.
+Added new timezone codes.
+Always check environment variables portal1 and portal2 for possible operator changes.
+Optimised auto update requests.
+Fixed retrieving search data from Google for autocomplete.
+Improved TimeShift saving algorithm.
+Don't show auto power down if timeshift is active.
+Fixed wifi keys generation page.
+Fixed mounting share by hand.
+
+Misc:
+Fixed WiFi in WEP mode.
+Added reconnects for PPPoE.
+Added AZERTY virtual keyboard mode.
+Updated openssl library and dependent packages.
+
+Browser:
+Fixed crash in some HTTP use cases.
