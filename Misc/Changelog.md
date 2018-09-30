@@ -1,3 +1,13 @@
+## 2.19.00-patch1 30 Sep 2018:
+* Fix bug with stucking on Loading when want to enter embedded portal main menu.
+* Add new way of installing updates: **by SSH**. This wa will be used in the future with light updates and patches. For STBs' users who want to join in MAG Software Portal, just install 2.19.00 and latest patch.
+
+## 2.19.00-release 29 Sep 2018:
+* Fixing bug with no logos of Aura HD and Aura HD International at embedded portal.
+* Releasing MAG Software Portal for **MAG 254** and **322 / 324.**
+* Better bootloader logo and splash screen. Each one STB has its own firmware updating file because of flashing correct screens.
+* Removing Apps Catalogue not working shortcut from MAGs, leaving it only in Auras because it works here.
+
 ## 2.18.26-beta-250 18 Sep 2018:
 * Firmware is based on new utilities from Infomir so there are changes done both by me and by Infomir. Changelog of Infomir you’ll find in Infomir_r23 document. Changes done by me are listed below.
 * Add logo of MAG 250 and new background to embedded portal.
