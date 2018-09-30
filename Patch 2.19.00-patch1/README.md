@@ -3,3 +3,6 @@
 * **patch.tar.gz** contains new files
 
 It must be run by SSH, from USB stick connected to STB. Both files should be at the same directory.
+
+### Changelog for Patch 1
+* Fix bug with no access to embedded portal
