@@ -12,4 +12,4 @@ This license is written just in case. It's only a hobby project so don't take it
 * collaborate with me,
 * do anything not allowed by law,
 just say it to me, please :) As I've written to you in readme, I don't bite. Really ;)
-5. On the situations that aren't described here or in any part of MAG Software Portal, follow my guides, Infomir guides and local law.
+5. On the situations that aren't described here or in any part of MAG Software Portal, follow my guides, Infomir guides, GitHub rules and local law.
