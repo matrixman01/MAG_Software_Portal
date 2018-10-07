@@ -1,5 +1,11 @@
+---
+layout: default
+title: MAG Software Portal
+whereis: MAG Software Portal
+---
+
 # MAG Software Portal
-Customized firmware for Infomir IPTV STBs: MAG 245/250, 254, 322/324, Aura HD, Aura HD International and IP_STB_HD (variant of 250 developed by Rostelecom). Project website: https://nepose.github.io
+Customized firmware for Infomir IPTV STBs: MAG 245/250, 254, 322/324, Aura HD, Aura HD International and IP_STB_HD (variant of 250 developed by Rostelecom). Project repository: https://github.com/Nepose/MAG_Software_Portal
 
 ## Why using it instead official soft?
 Because Infomir stopped servicing all STBs from first line. As "first line" I mean boxes with stm processor expect MAG256 (particularly MAG 200, 245, 250, 254, 270, 275 and Aura HD, Aura HD International). A nice surprise was r23 update after a year of mute ;) And I'll put more functions here. It is also a nice lesson of programming for me so if you're able, please help me realising my hobby and join in project :D
