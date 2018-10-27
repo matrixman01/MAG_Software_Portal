@@ -1,0 +1,7 @@
+Run ./boot.sh firstly (if doesn't work try giving executable privileges for all files). I'm not sure if it will work, just beta ;)
+
+Revision 1.00 beta (26 Oct 2018):
+[+] Remote load inner portal, any external URL site or reboot STB
+[+] Check updates, download latest update to USB
+
+All scripts should be at root of USB stick.
